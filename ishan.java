@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-public class ishan {
-    public static void main(String[] args) {
-        System.out.println("hello");
-    }
-    
-=======
 import java.util.Scanner;  // Import the Scanner class
 
 class Main {
@@ -15,5 +8,4 @@ class Main {
     String userName = myObj.nextLine();  // Read user input
     System.out.println("Username is: " + userName);  // Output user input
   }
->>>>>>> origin/master
 }
