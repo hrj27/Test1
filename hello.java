@@ -6,4 +6,8 @@ public class hello {
         System.out.println("ishan bhai");
     }
 }
+<<<<<<< HEAD
 //hritk
+=======
+//hello
+>>>>>>> origin/master
